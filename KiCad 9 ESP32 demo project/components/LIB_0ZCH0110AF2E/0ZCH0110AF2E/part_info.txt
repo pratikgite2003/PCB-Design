@@ -1,0 +1,9 @@
+Manufacturer=Bel Circuit Protection
+PartNumber=0ZCH0110AF2E
+PartCategory=Fuse
+PackageCategory=Fuses Chip
+PinCount=2
+Version=2.1
+Released=2024-01-24 04:09:35
+Downloaded=2025-03-03 08:36:53
+3D=Y

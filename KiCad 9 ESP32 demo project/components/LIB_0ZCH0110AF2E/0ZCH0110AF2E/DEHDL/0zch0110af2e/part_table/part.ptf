@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '0ZCH0110AF2E'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bel Circuit Protection", "0ZCH0110AF2E" (!) = "", "FUSC3226X100N", "Fuses Chip", "", "", "1210 SMT PPTC | 1.10 Ih | 16V", "https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zch-series.pdf", "1 mm"
+END_PART
+
+END.

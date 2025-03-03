@@ -1,0 +1,16 @@
+.0ZCH0110AF2E :1 ;1210 SMT PPTC | 1.10 Ih | 16V
+FUSC3226X100N
+*STM F
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 0ZCH0110AF2E
+~!Mouser Part Number (-)
+~!Mouser Price/Stock (-)
+~!Manufacturer_Name (Bel Circuit Protection)
+~!Manufacturer_Part_Number (0ZCH0110AF2E)
+~!Link Datasheet (https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zch-series.pdf)
+~!Height (1mm)
+~!3D_Model (0ZCH0110AF2E)
+"0ZCH0110AF2E"
+1.1!U 2.1!U 
