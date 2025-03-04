@@ -3333,16 +3333,6 @@
 	)
 	(wire
 		(pts
-			(xy 223.52 102.87) (xy 223.52 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1fc9982d-dee3-4941-874c-6733371ed6e7")
-	)
-	(wire
-		(pts
 			(xy 48.26 177.8) (xy 55.88 177.8)
 		)
 		(stroke
@@ -3370,16 +3360,6 @@
 			(type default)
 		)
 		(uuid "23394e74-f38d-4938-b992-da0dbf71fbf8")
-	)
-	(wire
-		(pts
-			(xy 198.12 80.01) (xy 205.74 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "23c84f00-395c-4b1e-84bd-3795c0599df8")
 	)
 	(wire
 		(pts
@@ -3873,6 +3853,16 @@
 	)
 	(wire
 		(pts
+			(xy 201.93 80.01) (xy 201.93 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "885f96ab-316b-4670-a49c-e5f5bfde92db")
+	)
+	(wire
+		(pts
 			(xy 241.3 54.61) (xy 250.19 54.61)
 		)
 		(stroke
@@ -3933,16 +3923,6 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 78.74) (xy 198.12 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e76ae78-c42f-4c35-8e7c-7cf17ab58466")
-	)
-	(wire
-		(pts
 			(xy 223.52 33.02) (xy 217.17 33.02)
 		)
 		(stroke
@@ -3990,16 +3970,6 @@
 			(type default)
 		)
 		(uuid "b9199159-edbf-4f6a-8d28-cedfc19325b0")
-	)
-	(wire
-		(pts
-			(xy 121.92 180.34) (xy 127 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c24f0b94-4f35-459a-b5c0-972c4b5ae1cf")
 	)
 	(wire
 		(pts
@@ -4053,16 +4023,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 176.53) (xy 127 176.53)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d33eac94-b71a-4f72-8ab7-6be12ccb1465")
-	)
-	(wire
-		(pts
 			(xy 175.26 63.5) (xy 175.26 54.61)
 		)
 		(stroke
@@ -4073,16 +4033,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 173.99) (xy 127 173.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d5691869-2bc3-44ff-b5ea-5f51bee70db7")
-	)
-	(wire
-		(pts
 			(xy 115.57 125.73) (xy 102.87 125.73)
 		)
 		(stroke
@@ -4090,6 +4040,16 @@
 			(type default)
 		)
 		(uuid "d6159a3a-ab0d-4287-8bd1-59c6b4b5af7c")
+	)
+	(wire
+		(pts
+			(xy 205.74 80.01) (xy 201.93 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6c4ede9-f48d-4332-835b-e1a90d54c6c3")
 	)
 	(wire
 		(pts
@@ -4341,16 +4301,6 @@
 		)
 		(uuid "f947932b-462a-4688-8233-f52c1dc73617")
 	)
-	(label "USB_DN"
-		(at 127 176.53 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "02e264e4-354d-48eb-b9f7-f6349f2f7878")
-	)
 	(label "VBUS"
 		(at 96.52 41.91 180)
 		(effects
@@ -4370,16 +4320,6 @@
 			(justify right bottom)
 		)
 		(uuid "381585af-ec86-49bd-a3aa-bfcf53f36383")
-	)
-	(label "VBUS"
-		(at 127 180.34 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "3f05235a-a276-4880-84d0-bc9d2469aa00")
 	)
 	(label "USB_DN"
 		(at 45.72 49.53 180)
@@ -4421,6 +4361,16 @@
 		)
 		(uuid "84b4cb39-a150-4b54-ace4-feebc6b73322")
 	)
+	(label "+5V"
+		(at 201.93 95.25 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "857f2a2e-f66a-45b9-ad7d-7f0e7f6ae6fb")
+	)
 	(label "+5V_USB"
 		(at 133.35 41.91 0)
 		(effects
@@ -4431,16 +4381,6 @@
 		)
 		(uuid "885bcbe4-3ad4-4ffc-8630-014cb6eb9596")
 	)
-	(label "CHARGED"
-		(at 175.26 54.61 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "8d081dd8-c217-4443-8ad1-b199de1c1176")
-	)
 	(label "USB_DP"
 		(at 45.72 46.99 180)
 		(effects
@@ -4450,16 +4390,6 @@
 			(justify right bottom)
 		)
 		(uuid "aed9065a-5234-4458-bc28-d67c1b239583")
-	)
-	(label "USB_DP"
-		(at 127 173.99 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "bb1d2937-cc7e-420d-93b5-091be65a263b")
 	)
 	(label "+5V_USB"
 		(at 175.26 100.33 180)
@@ -4501,16 +4431,6 @@
 		)
 		(uuid "dac901c4-c6d8-434b-8437-826c01d9241d")
 	)
-	(label "CHARGING"
-		(at 186.69 59.69 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e3f549a9-8dd6-408f-ac40-a9512f010182")
-	)
 	(label "USB_DP"
 		(at 86.36 46.99 0)
 		(effects
@@ -4530,16 +4450,6 @@
 			(justify left bottom)
 		)
 		(uuid "f01ac380-ab67-4c12-a9ed-ee76ba06c48d")
-	)
-	(label "CHARGING_POWE_GOOD"
-		(at 165.1 52.07 90)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "fcd80d14-91dd-4bf1-9936-45f8ac67c279")
 	)
 	(label "+5V_USB"
 		(at 241.3 67.31 0)
@@ -5767,72 +5677,6 @@
 			(project "KiCad 9 ESP32 demo project"
 				(path "/80604368-af49-40dd-987f-c761cdff6830"
 					(reference "R4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 223.52 104.14 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "597bcc61-b99a-4a5c-a20e-2c00148ee301")
-		(property "Reference" "#PWR18"
-			(at 223.52 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 223.52 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 223.52 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 223.52 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 223.52 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7d83bf27-4b95-4262-b980-56ceb7256204")
-		)
-		(instances
-			(project "KiCad 9 ESP32 demo project"
-				(path "/80604368-af49-40dd-987f-c761cdff6830"
-					(reference "#PWR18")
 					(unit 1)
 				)
 			)
@@ -7960,71 +7804,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 198.12 78.74 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d392bdec-ad4d-4a3e-875e-a5c458adb5d9")
-		(property "Reference" "#PWR19"
-			(at 198.12 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 197.612 74.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 198.12 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 198.12 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 198.12 78.74 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "53271df1-c1d3-45fa-90be-256206f5588c")
-		)
-		(instances
-			(project "KiCad 9 ESP32 demo project"
-				(path "/80604368-af49-40dd-987f-c761cdff6830"
-					(reference "#PWR19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "LTST-C170KRKT:LTST-C170KRKT")
 		(at 200.66 134.62 0)
 		(unit 1)
@@ -8528,7 +8307,7 @@
 			(type solid)
 		)
 		(fill
-			(color 255 158 139 0.7900)
+			(color 0 0 0 0.0000)
 		)
 		(uuid "4a22eb7a-047d-4a09-a619-875484efe01d")
 		(property "Sheetname" "ESP32-C3_02"
@@ -8548,36 +8327,6 @@
 				)
 				(justify left top)
 			)
-		)
-		(pin "USB_DP" input
-			(at 121.92 173.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "ccd69731-9eaa-436c-b917-5490bbeeeb88")
-		)
-		(pin "USB_DN" input
-			(at 121.92 176.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "ea0d25f3-12f8-4334-93a8-7cffe45e92ce")
-		)
-		(pin "VBUS" input
-			(at 121.92 180.34 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-			(uuid "f62f2f26-c388-4442-a7f3-ae611e590369")
 		)
 		(instances
 			(project "KiCad 9 ESP32 demo project"
