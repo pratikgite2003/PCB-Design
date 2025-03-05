@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0ZCH0110AF2E
+D 1210 SMT PPTC | 1.10 Ih | 16V
+K
+F https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zch-series.pdf
+$ENDCMP
+#
+#End Doc Library

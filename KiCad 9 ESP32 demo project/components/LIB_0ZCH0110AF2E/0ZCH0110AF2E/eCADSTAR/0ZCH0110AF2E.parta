@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_18922046"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-24-04:09:35)
+    (utime 2024-01-24-04:09:35)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "0ZCH0110AF2E")
+)
+
+
+(pinAssign "ECS_18922046"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-24-04:09:35)
+    (utime 2024-01-24-04:09:35)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_18922046")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "0ZCH0110AF2E")
+)
+
+
+(part "0ZCH0110AF2E"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-01-24-04:09:35)
+    (utime 2024-01-24-04:09:35)
+    (packageRef "0ZCH0110AF2E")
+    (pinAssignRef "ECS_18922046")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "YES")
+    (property "refDesPrefix" "F")
+    (property "description" "1210 SMT PPTC | 1.10 Ih | 16V")
+    (property "Mouser_Part_Number" "")
+    (property "Mouser_Price/Stock" "")
+    (property "Manufacturer_Name" "Bel Circuit Protection")
+    (property "Manufacturer_Part_Number" "0ZCH0110AF2E")
+    (property "Datasheet_Link" "https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zch-series.pdf")
+    (property "compAreaTopHeight" 1)
+)
+
+
