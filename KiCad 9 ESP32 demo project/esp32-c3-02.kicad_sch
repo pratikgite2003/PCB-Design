@@ -9021,15 +9021,15 @@
 	(symbol
 		(lib_id "Device:C")
 		(at 39.37 87.63 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "e9113131-3473-4dae-a149-fa907079705f")
 		(property "Reference" "C11"
-			(at 43.18 86.3599 0)
+			(at 35.56 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9038,7 +9038,7 @@
 			)
 		)
 		(property "Value" "1U"
-			(at 43.18 88.8999 0)
+			(at 35.56 88.8999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9047,7 +9047,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 40.3352 91.44 0)
+			(at 38.4048 91.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)

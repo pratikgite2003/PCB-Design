@@ -4122,15 +4122,15 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 199.39 71.12 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "9b8aa787-363e-43a5-8e85-a8252b9ea2b4")
 		(property "Reference" "R29"
-			(at 201.93 69.8499 0)
+			(at 196.85 69.8499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4139,7 +4139,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 201.93 72.3899 0)
+			(at 196.85 72.3899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4148,7 +4148,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 197.612 71.12 90)
+			(at 201.168 71.12 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5135,15 +5135,15 @@
 	(symbol
 		(lib_id "Device:R")
 		(at 199.39 49.53 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "f0ef89d2-f98d-43ce-987d-2e489a1b48ef")
 		(property "Reference" "R27"
-			(at 201.93 48.2599 0)
+			(at 196.85 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5152,7 +5152,7 @@
 			)
 		)
 		(property "Value" "1M"
-			(at 201.93 50.7999 0)
+			(at 196.85 50.7999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5161,7 +5161,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
-			(at 197.612 49.53 90)
+			(at 201.168 49.53 90)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -3122,6 +3122,18 @@
 		(uuid "32ed1619-cc64-4a4a-980b-a395212305b8")
 	)
 	(junction
+		(at 102.87 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "41050578-e278-4a57-a65f-2532466c6d70")
+	)
+	(junction
+		(at 115.57 125.73)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58e177de-982a-46f8-ab05-0e3febb8e6e0")
+	)
+	(junction
 		(at 217.17 33.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3138,12 +3150,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7d8f7843-2c4b-45cf-a289-bb4cb19e13da")
-	)
-	(junction
-		(at 102.87 125.73)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b00fbecf-d0ef-416d-9a6f-c35e2de0be8d")
 	)
 	(junction
 		(at 264.16 57.15)
@@ -3518,6 +3524,16 @@
 			(type default)
 		)
 		(uuid "3b0b8d15-e75c-4c9f-9e3f-9ff55d22401c")
+	)
+	(wire
+		(pts
+			(xy 102.87 125.73) (xy 115.57 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b2fb1e7-1001-4078-9c9e-e64ec2911fd0")
 	)
 	(wire
 		(pts
@@ -4121,7 +4137,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 125.73) (xy 102.87 125.73)
+			(xy 115.57 125.73) (xy 128.27 125.73)
 		)
 		(stroke
 			(width 0)
@@ -4691,7 +4707,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+		(property "Footprint" "KiCad:FUSC3226X100N"
 			(at 123.19 138.1 0)
 			(effects
 				(font
